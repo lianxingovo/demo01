@@ -1,0 +1,74 @@
+[
+    {
+        "name": "鲁菜",
+        "description": "鲁菜，即山东菜，是中国传统四大菜系之一，起源于山东。鲁菜以其色香味俱佳、烹饪技艺精湛而著称，尤其擅长烹饪海鲜和肉类。",
+        "Rating": "4.5",
+        "episode": 100,
+        "categorie": "四大菜系",
+        "studio": "山东",
+        "img": "https://www.example.com/images/lucai.jpg"
+    },
+    {
+        "name": "川菜",
+        "description": "川菜，即四川菜，是中国传统四大菜系之一，起源于四川。川菜以其麻辣鲜香、口味丰富而著称，尤其擅长烹饪肉类和蔬菜。",
+        "Rating": "4.8",
+        "episode": 120,
+        "categorie": "四大菜系",
+        "studio": "四川",
+        "img": "https://www.example.com/images/chuancai.jpg"
+    },
+    {
+        "name": "粤菜",
+        "description": "粤菜，即广东菜，是中国传统四大菜系之一，起源于广东。粤菜以其清淡鲜美、注重食材本味而著称，尤其擅长烹饪海鲜和蔬菜。",
+        "Rating": "4.7",
+        "episode": 110,
+        "categorie": "四大菜系",
+        "studio": "广东",
+        "img": "https://www.example.com/images/yuecai.jpg"
+    },
+    {
+        "name": "苏菜",
+        "description": "苏菜，即江苏菜，是中国传统四大菜系之一，起源于江苏。苏菜以其精致细腻、口味适中而著称，尤其擅长烹饪鱼类和蔬菜。",
+        "Rating": "4.6",
+        "episode": 105,
+        "categorie": "四大菜系",
+        "studio": "江苏",
+        "img": "https://www.example.com/images/sucai.jpg"
+    }, 
+    {
+        "name": "浙菜",
+        "description": "浙菜，即浙江菜，是中国传统八大菜系之一，起源于浙江。浙菜以其清淡雅致、注重食材本味而著称，尤其擅长烹饪海鲜和蔬菜。",
+        "Rating": "4.7",
+        "episode": 110,
+        "categorie": "八大菜系",
+        "studio": "浙江",
+        "img": "https://www.example.com/images/zhecai.jpg"
+    },
+    {
+        "name": "闽菜",
+        "description": "闽菜，即福建菜，是中国传统八大菜系之一，起源于福建。闽菜以其清鲜醇厚、擅长烹饪海鲜和蔬菜而著称。",
+        "Rating": "4.6",
+        "episode": 105,
+        "categorie": "八大菜系",
+        "studio": "福建",
+        "img": "https://www.example.com/images/mincai.jpg"
+    },
+    {
+        "name": "湘菜",
+        "description": "湘菜，即湖南菜，是中国传统八大菜系之一，起源于湖南。湘菜以其香辣味浓、口味厚重而著称，尤其擅长烹饪肉类和蔬菜。",
+        "Rating": "4.8",
+        "episode": 120,
+        "categorie": "八大菜系",
+        "studio": "湖南",
+        "img": "https://www.example.com/images/xiangcai.jpg"
+    },
+    {
+        "name": "徽菜",
+        "description": "徽菜，即安徽菜，是中国传统八大菜系之一，起源于安徽。徽菜以其重油重色、口味浓郁而著称，尤其擅长烹饪肉类和蔬菜。",
+        "Rating": "4.5",
+        "episode": 100,
+        "categorie": "八大菜系",
+        "studio": "安徽",
+        "img": "https://www.example.com/images/huicai.jpg"
+    } 
+]
