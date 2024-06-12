@@ -6,7 +6,7 @@
         "episode": 100,
         "categorie": "四大菜系",
         "studio": "山东",
-        "img": "https://www.example.com/images/lucai.jpg"
+        "img": "https://5b0988e595225.cdn.sohucs.com/images/20171018/8eb2a2239638432e9ab0527b41f682a0.jpeg"
     },
     {
         "name": "川菜",
@@ -15,7 +15,7 @@
         "episode": 120,
         "categorie": "四大菜系",
         "studio": "四川",
-        "img": "https://www.example.com/images/chuancai.jpg"
+        "img": "https://img95.699pic.com/photo/50007/7752.jpg_wh860.jpg"
     },
     {
         "name": "粤菜",
@@ -24,7 +24,7 @@
         "episode": 110,
         "categorie": "四大菜系",
         "studio": "广东",
-        "img": "https://www.example.com/images/yuecai.jpg"
+        "img": "https://img.zcool.cn/community/01902355dc039932f875a132a59500.jpg@2o.jpg"
     },
     {
         "name": "苏菜",
